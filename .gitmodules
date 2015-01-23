@@ -1,0 +1,18 @@
+[submodule "code/redis"]
+	path = code/redis
+	url = git@github.com:antirez/redis.git
+[submodule "memcached"]
+	path = memcached
+	url = git@github.com:memcached/memcached.git
+[submodule "go"]
+	path = go
+	url = git@github.com:golang/go.git
+[submodule "code/php-src"]
+	path = code/php-src
+	url = git@github.com:php/php-src.git
+[submodule "code/mysql-server"]
+	path = code/mysql-server
+	url = git@github.com:mysql/mysql-server.git
+[submodule "code/linux"]
+	path = code/linux
+	url = git@github.com:torvalds/linux.git
